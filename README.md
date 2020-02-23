@@ -3,3 +3,7 @@ Team Members:
 - Sai Kiran Pocham
 - Varsha Ahuja
 - Jinal Shah
+
+# Index
+
+- [Linux Editing and Commands](linuxCommands.md)
