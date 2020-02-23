@@ -37,3 +37,10 @@
    ```
    mv hello.txt red.txt - This will make the file hello.txt to rename to red.txt and move the content into this.
    ```  
+7. rm command: rm command is used to remove the files from the current directory. We can remove multiple files from the directory.
+
+   Example: 
+   ```
+   rm a.txt - This will delete the file 'a.txt' from the current directory
+   ```
+   
