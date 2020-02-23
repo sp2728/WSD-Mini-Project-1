@@ -38,7 +38,9 @@ Following are steps for cloning a repository
 
 $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
-(v) Press Enter. Your local clone will be created.
+(v) Press Enter. Your local clone will be created as shown in image screenshot below :
+
+![](Images/gitCommands_Clone3.png)
 
 
 
