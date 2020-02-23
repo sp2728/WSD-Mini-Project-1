@@ -28,11 +28,10 @@ Following are steps for cloning a repository
 
 ![](Images/gitCommands_clone1.png)
 
-(ii) To clone the repository using HTTPS, under "Clone with HTTPS", click on that ** clone or download ** button and copy the link.
+(ii) To clone the repository using HTTPS, under "Clone with HTTPS", click on that ** Clone or download * and copy the link as shown below:
+
+![](Images/gitCommands_Clone2.png)
 
 
-
-
-
-
+ 
 
