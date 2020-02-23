@@ -51,5 +51,4 @@
 9. Home Directory or ~ command: This command is used to move the current directory to the home directory.
 
    Example:
-   
-    
+   ![](Images/homeExample.png)
