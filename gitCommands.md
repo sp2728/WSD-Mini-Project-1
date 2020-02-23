@@ -1,5 +1,6 @@
 # Git Commands
 ## 1. Repository 
+A repository is a storage space where your project lives. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host.
 
 You can create a new repository on your personal account or any organization as shown in the image below:
 
