@@ -4,7 +4,7 @@ A repository is a storage space where your project lives. It can be local to a f
 
 You can create a new repository on your personal account or any organization as shown in the image below:
 
-In the upper-right corner of GitHub page, use the  drop-down menu, and select New repository.
+In the upper-right corner of GitHub page, use the  drop-down menu, and select **New repository**.
 
 
 ![](Images/gitCommands_Repository.png)
@@ -24,11 +24,11 @@ For Example, git clone https://github.com/facebook/facebook-ios-sdk.git.
 
 Following are steps for cloning a repository
 
-(i) On GitHub, navigate to the main page of the repository. Under the repository name, click Clone or download as shown in image below.
+(i) On GitHub, navigate to the main page of the repository. Under the repository name, click **Clone or download** as shown in image below.
 
 ![](Images/gitCommands_clone1.png)
 
-(ii) To clone the repository using HTTPS, under "Clone with HTTPS", click on that Clone or download and copy the link as shown below:
+(ii) To clone the repository using HTTPS, under "Clone with HTTPS", click on that **Clone or download** and copy the link as shown below:
 
 ![](Images/gitCommands_Clone2.png)
 
@@ -46,6 +46,13 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 A fork is a copy of a repository that allows you to freely experiment with changes without affecting the original project. 
 
 Forking a project is as easy as clicking the Fork button in the header of a repository. Once the process is complete, you'll be taken right to your the forked copy of the project so you can start collaborating!
+
+If you want to fork someone's repository, then we just have to go to that repository and click on the **Fork** button as shown in image below:
+
+![](Images/gitCommands_Fork.png)
+
+Forking a repository will copy the main data such as files and code. Issues, branches, pull requests and other features, however, will not copy over to your fork.
+
 
  
 
