@@ -20,4 +20,4 @@ Basically, Cloning a git repository means that you create a local copy of the co
 
 You can simply do it with a command line: git clone 
 
-For Example, git://github.com/facebook/facebook-ios-sdk.git.
+For Example, git clone https://github.com/facebook/facebook-ios-sdk.git.
