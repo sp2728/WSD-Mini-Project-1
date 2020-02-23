@@ -20,8 +20,11 @@
     ```
     cp a.txt b.txt - This will copy the file a.txt into the directory with a name b.txt
     ```
-  4. pwd command: pwd command is used to display the current working directory.
+ 4. pwd command: pwd command is used to display the current working directory.
   
    Example: 
    ![](Images/pwdExample.png) 
     
+ 5. ls command: ls command is used to list all the files in current directory.
+ 
+   Example:
