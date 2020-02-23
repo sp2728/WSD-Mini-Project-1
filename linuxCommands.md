@@ -12,3 +12,9 @@
     ```
     mkdir hellos - This will make directory called 'hello' in the current directory.
     ```
+3. Cp command: cp command is used to copy files or group files into the directory. It create an exact image of the file with a different name.
+    Example:
+    ```
+    cp a.txt b.txt - This will copy the file a.txt into the directory with a name b.txt
+    ```
+  
