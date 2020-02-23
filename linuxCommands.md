@@ -28,3 +28,5 @@
  5. ls command: ls command is used to list all the files in current directory.
  
    Example:
+   
+   ![](Images/lsExample.png)
