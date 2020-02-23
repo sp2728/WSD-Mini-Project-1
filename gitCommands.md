@@ -4,7 +4,7 @@ A repository is a storage space where your project lives. It can be local to a f
 
 You can create a new repository on your personal account or any organization as shown in the image below:
 
-In the upper-right corner of GitHub page, use the  drop-down menu, and select ** New repository **.
+In the upper-right corner of GitHub page, use the  drop-down menu, and select New repository.
 
 
 ![](Images/gitCommands_Repository.png)
@@ -24,13 +24,23 @@ For Example, git clone https://github.com/facebook/facebook-ios-sdk.git.
 
 Following are steps for cloning a repository
 
-(i) On GitHub, navigate to the main page of the repository. Under the repository name, click ** Clone or download ** as shown in image below.
+(i) On GitHub, navigate to the main page of the repository. Under the repository name, click Clone or download as shown in image below.
 
 ![](Images/gitCommands_clone1.png)
 
-(ii) To clone the repository using HTTPS, under "Clone with HTTPS", click on that ** Clone or download * and copy the link as shown below:
+(ii) To clone the repository using HTTPS, under "Clone with HTTPS", click on that Clone or download and copy the link as shown below:
 
 ![](Images/gitCommands_Clone2.png)
+
+(iii) Open Git Bash
+
+(iv) Change the current working directory to the location where you want the cloned directory to be made. Type git clone, and then paste the URL you copied in Step 2.
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+(v) Press Enter. Your local clone will be created.
+
+
 
 
  
