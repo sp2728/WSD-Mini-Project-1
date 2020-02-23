@@ -30,3 +30,10 @@
    Example:
    
    ![](Images/lsExample.png)
+ 
+ 6. mv command: mv command is used to move the files from one place to another place. It is also used to move multiple files.
+    
+   Example:
+   ```
+   mv hello.txt red.txt - This will make the file hello.txt to rename to red.txt and move the content into this.
+   ```  
