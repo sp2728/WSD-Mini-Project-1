@@ -2,7 +2,7 @@
 
 1. Cd command: cd command is used to change the current directory in Linux or other unix like operating system.
 
-    Example: 
+   Example: 
     ```
     cd desktop - This will make the current directory as Desktop.
     cd .. -  This will take you to the previous repository.
@@ -10,13 +10,13 @@
     
 2. Mkdir commad : mkdir command is used to create directories. It is also used to create multiple directories.
 
-    Example: 
+   Example: 
     ```
     mkdir hellos - This will make directory called 'hello' in the current directory.
     ```
 3. Cp command: cp command is used to copy files or group files into the directory. It create an exact image of the file with a different name.
 
-    Example:
+   Example:
     ```
     cp a.txt b.txt - This will copy the file a.txt into the directory with a name b.txt
     ```
@@ -47,3 +47,9 @@
 
    Example:
    ![](Images/historyExample.png)
+   
+9. Home Directory or ~ command: This command is used to move the current directory to the home directory.
+
+   Example:
+   
+    
