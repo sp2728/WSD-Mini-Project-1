@@ -46,4 +46,4 @@
 8. History command: This command will show the history of the most recent commands you have performed on your computer.
 
    Example:
-   
+   ![](Images/historyExample.png)
