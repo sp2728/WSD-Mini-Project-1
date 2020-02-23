@@ -12,3 +12,12 @@ In the upper-right corner of GitHub page, use the  drop-down menu, and select Ne
 In this way, you can create repositories on GitHub. 
 
 You can keep code files, text files, images or any kind of a file in a repository.
+
+## 2. Clone
+When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and synchronize between the two locations.
+
+Basically, Cloning a git repository means that you create a local copy of the code provided by developer. 
+
+You can simply do it with a command line: git clone 
+
+For Example, git://github.com/facebook/facebook-ios-sdk.git.
