@@ -20,18 +20,18 @@
     ```
     cp a.txt b.txt - This will copy the file a.txt into the directory with a name b.txt
     ```
- 4. pwd command: pwd command is used to display the current working directory.
+4. pwd command: pwd command is used to display the current working directory.
   
    Example: 
    ![](Images/pwdExample.png) 
     
- 5. ls command: ls command is used to list all the files in current directory.
+5. ls command: ls command is used to list all the files in current directory.
  
    Example:
    
    ![](Images/lsExample.png)
  
- 6. mv command: mv command is used to move the files from one place to another place. It is also used to move multiple files.
+6. mv command: mv command is used to move the files from one place to another place. It is also used to move multiple files.
     
    Example:
    ```
@@ -43,4 +43,7 @@
    ```
    rm a.txt - This will delete the file 'a.txt' from the current directory
    ```
+8. History command: This command will show the history of the most recent commands you have performed on your computer.
+
+   Example:
    
