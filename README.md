@@ -4,6 +4,9 @@ Team Members:
 - Varsha Ahuja
 - Jinal Shah
 
+
+
 # Index
 
+- [ Change Log File ](changelog.md)
 - [Linux Editing and Commands](linuxCommands.md)
