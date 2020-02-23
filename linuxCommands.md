@@ -22,6 +22,6 @@
     ```
   4. pwd command: pwd command is used to display the current working directory.
   
-    Example: 
-    
+   Example: 
+   ![](Images/pwdExample.png) 
     
