@@ -1,5 +1,13 @@
 # Git Commands
 ## 1. Repository 
 
-In GitHub, Repository is like folder for our project. Project's repository contains all of your project's files and stores each file's revision history. We can discuss and manage our project's work within the repository.You can own repositories individually, or you can share ownership of repositories with other people in an organization.You can collaborate on your project with others using your repository's issues, pull requests, and project boards.
+You can create a new repository on your personal account or any organization as shown in the image below:
 
+In the upper-right corner of GitHub page, use the  drop-down menu, and select New repository.
+
+
+![](Images/gitCommands_Repository.png)
+
+In this way, you can create repositories on GitHub. 
+
+You can keep code files, text files, images or any kind of a file in a repository.
