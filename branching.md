@@ -22,3 +22,25 @@ Below are the basic steps to create branches using command line:
 ![](Images/branch_2.png)
 
 ![](Images/branch_3.png)
+
+## &#x1F539; Resolving the Merge Conflicts:
+
+Merge conflict occurs when people make different changes to the same file on different branches in the repository.
+
+In the pull request list, click the pull request with the merge conflict that you would like to resolve. And click on the resolve conflicts button.
+
+![](Images/mergeConflict1.png)
+
+Decide if you want to keep the incoming changes or the current changes or both the changes. Delete the conflict markers <<<<<<<, =======, >>>>>>> and make the changes you want in the final merge.
+
+![](Images/mergeConflit2.png)
+
+Once all the commits are resolved. Click on the 'commit merge' or 'mark as resolved' button.
+
+![](Images/mergeResolved.png)
+
+And the merge the pull request with master branch
+
+![](Images/mergePullrequest.png)
+
+
