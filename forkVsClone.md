@@ -10,7 +10,7 @@ Before getting into the comparision of forking & cloning let us first understand
 
 ## &#x1F539; Forking
 
-Forking is a concept of copying a repository (Project) on your Github account. It can help you experiment with the code you have copied without affecting the original project code. You could edit the original code and create pull request (discussed in xxx.md document) for the changes, which indicates the owner of the project to verify changes and then decide if to merge or not to merge it to the original code.
+Forking is a concept of copying a repository (Project) on your Github account. It can help you experiment with the code you have copied without affecting the original project code. You could edit the original code and create pull request (discussed in [pullRequest.md](https://github.com/varshaahuja/WSD-Mini-Project-1/blob/master/pullRequest.md) document) for the changes, which indicates the owner of the project to verify changes and then decide if to merge or not to merge it to the original code.
 Below steps show how to fork a repository:
 
  1. Navigate to the repository which must be forked.
