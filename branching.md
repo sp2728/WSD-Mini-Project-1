@@ -43,4 +43,7 @@ And the merge the pull request with master branch
 
 ![](Images/mergePullrequest.png)
 
+**Avoiding the Merge Conflict**
+
+Branches are used in Github to avoid the major merge conflicts. Instead of working on the same file on the same branch of the repository. We can create different branches for working on different features of the repository and later can be merged in to one branch which can be 'develop' branch for large project which use Git Flow or master branch for smaller projects or teams. 
 
