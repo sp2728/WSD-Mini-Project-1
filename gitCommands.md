@@ -157,13 +157,17 @@ It uses Following command for remote show : git remote -v
 
 ## 11. Git Status
 Git status command shows the differences in the index file and the current HEAD commit in any path, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git. The first are what you would commit by running git commit; the second and third are what you could commit by running git add before running git commit.
+
 OPTIONS
--s 
---short 
+-s (--short)
 Give the output in the short-format.
--b 
---branch 
+
+-b (--branch)
 Show the branch and tracking info even in short-format.
+
 Below is a screenshot of basic git status command which displays same result as that by git status -b
 
 ![](Images/gitStatus.jpg)
+
+## 12. Master Branch
+In Git, "master branch" is a default branch for a repository. After cloning a project from a remote directory, the resulting local repository has a single local branch: the so-called "master" branch. As you initially make commits, you’re given a master branch that points to the last commit you made. To avoid any kind of major errors in master branch, a develop branch should be created so that all the commits are peroformed to the code there and then final code is merged to the master branch. In short the master branch has the latest code.
