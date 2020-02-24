@@ -78,6 +78,9 @@ Below is Image Screenshot which describes the Switching of branch workflow :
 
 ![](Images/gitCommands_branch2.png)
 
+You can delete your branch by using following command : git branch -d <branch_name>
+
+![](Images/gitCommands_branch3.png)
  
 
 
