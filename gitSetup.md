@@ -17,13 +17,37 @@ Below are the ways we can install Git on different operation systems:
 Let us see the steaps to install Git on Windows:
 
 1. Go the URL https://git-scm.com/download/win and select 64 bit Git Windows setup for download.
-![](Images/viCommandExample.png)
+
+![](Images/gitDownload_1.png)
 
 2. On the Git Setup *Information* window hit *Next*.
+
+![](Images/gitDownload_2.jpg)
+
 3. On the Git Setup *Select Components* window select the below checkboxes and hit *Next*.
+
+![](Images/gitDownload_3.jpg)
+
 4. Choose a default editor on the next window. By default **Vim** editor is selected and hit *Next*.
+
+![](Images/gitDownload_4.jpg)
+
 5. Choose **Use the OpenSSL library** and hit *Next*.
+
+![](Images/gitDownload_5.jpg)
+
 6. Choose **Checkout Windows-style, commit Unix-style line endings** and hit *Next*.
-7. Your Git will start installing, it may take a while to install
+
+![](Images/gitDownload_6.jpg)
+
+7. Your Git will start installing, it may take a while to install.
+
+![](Images/gitDownload_7.jpg)
+
 8. After installation is complete, you will get screen like the below, you may select to both the checkboxes or just **Launch** Git to confirm.
+
+![](Images/gitDownload_8.jpg)
+
 9. If you get the below screen, you are ready to work with your Git.
+
+![](Images/gitDownload_9.png)
