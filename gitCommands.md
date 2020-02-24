@@ -148,3 +148,8 @@ Below Image Screenshot describes the Remote Remove Workflow
 
 ![](Images/gitCommands_remoteremove.png)
 
+### Remote Show 
+Remote Show command is used to display changes done i.e if we had performed commands like remote add or remote remove, then basically remote displays changes done or undone.
+
+It uses Following command for remote show : git remote -v
+
