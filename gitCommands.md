@@ -131,3 +131,9 @@ The git pull command is used to fetch and download content from a remote reposit
 Basically In Git, Pull command used to update the local version of a repository from a remote repository. 
 
 ![](Images/gitCommands_pull.png)
+
+## 10. Remote Add / Remove / Show
+
+### Remote Add
+To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
+
