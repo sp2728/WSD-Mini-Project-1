@@ -155,3 +155,15 @@ It uses Following command for remote show : git remote -v
 
 ![](Images/gitCommands_remoteadd1.png)
 
+## 11. Git Status
+Git status command shows the differences in the index file and the current HEAD commit in any path, paths that have differences between the working tree and the index file, and paths in the working tree that are not tracked by Git. The first are what you would commit by running git commit; the second and third are what you could commit by running git add before running git commit.
+OPTIONS
+-s 
+--short 
+Give the output in the short-format.
+-b 
+--branch 
+Show the branch and tracking info even in short-format.
+Below is a screenshot of basic git status command which displays same result as that by git status -b
+
+![](Images/gitStatus.jpg)
