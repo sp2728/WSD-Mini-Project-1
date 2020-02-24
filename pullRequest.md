@@ -22,3 +22,9 @@ Below are simple steps that show how to create pull request:
 5. Click on *Create Pull Request* button to complete the request.
 
 ![](Images/pull_2.png)
+
+6. The pull request is received by the owner of master repository (of the cloned repository) under the pull requests tabs.
+
+7. The owner can then decide if to merge the changes or not. Below is the screenshot of the screen.
+
+![](Images/mergePullrequest.png)
