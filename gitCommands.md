@@ -115,5 +115,10 @@ git checkout <branch_name>
 
 ![](Images/gitCommands_checkout.png)
 
+## 8. Push
+
+The git push command is used to upload local repository content to a remote repository. 
+Pushing is how you transfer commits from your local repository to a remote repo.
+
  
 
