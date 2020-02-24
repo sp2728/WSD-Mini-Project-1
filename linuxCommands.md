@@ -72,3 +72,8 @@
 
    Example:
    ![](Images/homeExample.png)
+
+10. File Paths in Linux: File paths is human readable representation of the file/folder location in computer.The forward slashes indicate that one item is stored inside of the item preceding it.
+```
+etc/library/hello.txt - This means hello.txt is stored in 'library' folder. And Library folder is stored in 'etc' folder.
+```
