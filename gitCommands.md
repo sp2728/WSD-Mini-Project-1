@@ -82,7 +82,11 @@ You can delete your branch by using following command : git branch -d <branch_na
 
 ![](Images/gitCommands_branch3.png)
  
+## 5. Commit
 
+A commit is an individual change to a file. It's like when you save a file, except with Git, every time you save it creates a unique ID that allows you to keep record of what changes were made when and by who. 
+
+Commits usually contain a commit message which is a brief description of what changes were made.
 
 
 
