@@ -103,5 +103,11 @@ You can merge two branches using following command : git merge <branch_name>
 Below Image Screenshot Shows the merging of two branches workflow :
 
 ![](Images/gitCommands_merge.png)
+
+## 7. Checkout
+
+The git checkout command lets you navigate between the branches created by git branch. 
+In Git terms, a "checkout" is the act of switching between different versions of a target entity. 
+The git checkout command operates upon three distinct entities: files, commits, and branches.
  
 
