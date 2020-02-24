@@ -74,6 +74,11 @@
    Example:
    ![](Images/homeExample.png)
    
-10. **Using the tab key to complete file paths:** A tab key helps in completing a path by just writing a part of the path or the directory you want to move to. A tab key also helps in completing any command present in command line. Helps speed up your process by avoiding to write the whole path/ command.
+10. **File Paths in Linux:** File paths is human readable representation of the file/folder location in computer.The forward slashes indicate that one item is stored inside of the item preceding it.
+```
+etc/library/hello.txt - This means hello.txt is stored in 'library' folder. And Library folder is stored in 'etc' folder.
+```
 
-11. **Using up and down arrow for history:** By using the up arrow, you can navigate to the commands you had run earlier i.e. you can either start typing the initial letter and then use up and down arrow keys to search the history and re-use the command or you could anyways use the up and down arrow keys to search the history.
+11. **Using the tab key to complete file paths:** A tab key helps in completing a path by just writing a part of the path or the directory you want to move to. A tab key also helps in completing any command present in command line. Helps speed up your process by avoiding to write the whole path/ command.
+
+12. **Using up and down arrow for history:** By using the up arrow, you can navigate to the commands you had run earlier i.e. you can either start typing the initial letter and then use up and down arrow keys to search the history and re-use the command or you could anyways use the up and down arrow keys to search the history.
