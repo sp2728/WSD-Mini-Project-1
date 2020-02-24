@@ -10,3 +10,8 @@ Team Members:
 
 - [ Change Log File ](changelog.md)
 - [Linux Editing and Commands](linuxCommands.md)
+- [Collaborator](collaborator.md)
+- [forkVsClone](forkVsClone.md)
+- [Git Setup Guide](gitSetup.md)
+- [Git Pull Request](pullRequest.md)
+
