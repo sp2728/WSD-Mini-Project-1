@@ -137,5 +137,14 @@ Basically In Git, Pull command used to update the local version of a repository 
 ### Remote Add
 To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
 
+Below Image Screenshot describes the Remote Add Workflow
+
 ![](Images/gitCommands_remoteadd1.png)
+
+### Remote Remove
+To remove a remote you can use the command git remote rm in the terminal, from the root folder of your repository.
+
+Below Image Screenshot describes the Remote Remove Workflow
+
+![](Images/gitCommands_remoteremove.png)
 
