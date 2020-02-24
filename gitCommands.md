@@ -72,6 +72,12 @@ Below is Image Screenshot which describes the creation of branch workflow :
 
 ![](Images/gitCommands_branch1.png)
 
+You can even switch to another branch by using following command : git checkout <branch_name>
+
+Below is Image Screenshot which describes the Switching of branch workflow :
+
+![](Images/gitCommands_branch2.png)
+
  
 
 
