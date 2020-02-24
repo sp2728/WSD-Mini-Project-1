@@ -46,10 +46,14 @@ Let us see the steps to install Git on Windows:
 
 ![](Images/gitDownload_7.jpg)
 
-8. After installation is complete, you will get screen like the below, you may select to both the checkboxes, or, just **Launch** Git to confirm.
+8. After installation is complete, you will get screen like the below, you may select to both the checkboxes, or, just **Launch** Git to finsih.
 
 ![](Images/gitDownload_8.jpg)
 
 9. If you get the below screen, you are ready to work with your Git.
 
 ![](Images/gitDownload_9.png)
+
+10. Let’s just verify if the installation went well for Git. Go to *cmd* and type **git** and press enter. you should get the following output on the screen.
+
+![](Images/gitDownload_10.png)
