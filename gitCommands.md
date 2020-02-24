@@ -70,6 +70,8 @@ You can create new branch in github by using following command : git branch <bra
 
 Below is Image Screenshot which describes the creation of branch workflow :
 
+![](Images/gitCommands_branch1.png)
+
  
 
 
