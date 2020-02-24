@@ -4,6 +4,7 @@ Gitflow Workflow defines a strict branching model designed for managing the rele
 
 Gitflow is really an abstract class of Git Workflow. It help us to create organised branches and how they should merge with eachother. Gitflow can be implemented in many operating Systems.
 
+![](Images/gitflowDiagram.png)
 ## Installation
 
 - On MacOS systems you can install the gitflow using the command.
@@ -13,5 +14,7 @@ Gitflow is really an abstract class of Git Workflow. It help us to create organi
 - On widows you will need to download and install the gitflow. Gitflow is already installed in most recent git versions.
 
 ## Workflow
+
+Instead of single master branch, this workflow uses two branches to record the history of the project. The master branch stores the official release history and develop branch stores as an integration of the features.
 
 
