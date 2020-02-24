@@ -53,6 +53,22 @@ If you want to fork someone's repository, then we just have to go to that reposi
 
 Forking a repository will copy the main data such as files and code. Issues, branches, pull requests and other features, however, will not copy over to your fork.
 
+## 4. Branch
+
+Git Branches plays crucial role in your daily development process. 
+
+In GitHub, they are basically pointers which reflect snapshots of your changes. Whenever you add a new feature, you can just create new branch to enclose your changes. 
+
+This prevents your code to get merged with main code base. 
+Master is default branch in github.
+
+The git branch command lets you create, list, rename, and delete branches.
+
+Branches help you organize the workflow of organization more efficiently and rather effortlessly.
+
+You can create new branch in github by using following command : git branch <branch_name>
+
+Below is Image Screenshot which describes the creation of branch workflow :
 
  
 
