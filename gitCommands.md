@@ -1,8 +1,8 @@
 # &#x1F539; Git Commands &#x1F539;
 ## 1. Repository 
-A repository is a storage space where your project lives. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host.
+In GitHub, repository is a storage space where we can store our project. It can be local to a folder on your computer, or it can be a storage space on GitHub.
 
-You can create a new repository on your personal account or any organization as shown in the image below:
+You can create a new repository on your personal account as shown in the image below:
 
 In the upper-right corner of GitHub page, use the  drop-down menu, and select **New repository**.
 
@@ -11,14 +11,13 @@ In the upper-right corner of GitHub page, use the  drop-down menu, and select **
 
 In this way, you can create repositories on GitHub. 
 
-You can keep code files, text files, images or any kind of a file in a repository.
-
 ## 2. Clone
-When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and synchronize between the two locations.
 
-Basically, Cloning a git repository means that you create a local copy of the code provided by developer. 
+When you create a repository on GitHub, it exists as a remote repository. 
 
-You can simply do it with a command line: git clone 
+Cloning a repsitory, basically means to create a local copy on your computer.
+
+ You can simply do it with a command line: git clone 
 
 For Example, git clone https://github.com/facebook/facebook-ios-sdk.git.
 
@@ -28,7 +27,7 @@ Following are steps for cloning a repository
 
 ![](Images/gitCommands_clone1.png)
 
-(ii) To clone the repository using HTTPS, under "Clone with HTTPS", click on that **Clone or download** and copy the link as shown below:
+(ii) To clone the repository, click on that **Clone or download** and copy the link as shown below:
 
 ![](Images/gitCommands_Clone2.png)
 
@@ -43,7 +42,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ![](Images/gitCommands_Clone3.png)
 
 ## 3. Fork
-A fork is a copy of a repository that allows you to freely experiment with changes without affecting the original project. 
+A fork allows you to freely experiment with changes without affecting the original project by making a copy of a repository.
 
 Forking a project is as easy as clicking the Fork button in the header of a repository. Once the process is complete, you'll be taken right to your the forked copy of the project so you can start collaborating!
 
@@ -57,14 +56,12 @@ Forking a repository will copy the main data such as files and code. Issues, bra
 
 Git Branches plays crucial role in your daily development process. 
 
-In GitHub, they are basically pointers which reflect snapshots of your changes. Whenever you add a new feature, you can just create new branch to enclose your changes. 
+In GitHub, they are basically pointers which depicts working of your changes. Whenever you add a new feature, you can just create new branch to enclose your changes. 
 
 This prevents your code to get merged with main code base. 
 Master is default branch in github.
 
 The git branch command lets you create, list, rename, and delete branches.
-
-Branches help you organize the workflow of organization more efficiently and rather effortlessly.
 
 You can create new branch in github by using following command : git branch <branch_name>
 
@@ -94,10 +91,12 @@ Below Image Screenshot describes the process of Commit Workflow, in the image it
 
 ## 6. Merge
 
-In GitHub, Merge Commit is used to combine two branches. Git merge will combine multiple sequences of commits into one unified history.
- 
-The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
+In GitHub, Merge Commit is used to combine or merge two branches. 
 
+Git merge will combine multiple sequences of commits into one unified history.
+
+Using Git Merge command, we can merge multiple branches into single branch.
+ 
 You can merge two branches using following command : git merge <branch_name> 
 
 Below Image Screenshot Shows the merging of two branches workflow :
@@ -107,8 +106,8 @@ Below Image Screenshot Shows the merging of two branches workflow :
 ## 7. Checkout
 
 The git checkout command lets you navigate between the branches created by git branch. 
-In Git terms, a "checkout" is the act of switching between different versions of a target entity. 
-The git checkout command operates upon three distinct entities: files, commits, and branches.
+
+The main use of git checkout command is you can switch from your current branch to another branch.
 
 Below Image Screenshot explains the Checkout Workflow in which we are able to switch branches by using using following command : 
 git checkout <branch_name>
@@ -117,7 +116,7 @@ git checkout <branch_name>
 
 ## 8. Push
 
-The git push command is used to upload local repository content to a remote repository. 
+In GitHub, local repository content can be moved to a remote repository using Push Command.
 Pushing is how you transfer commits from your local repository to a remote repository.
 
 Below Image Screenshot explain Git Push Workflow where changes made to the file are pushed from local repository to remote repository by using git push command :
