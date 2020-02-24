@@ -10,4 +10,8 @@ Gitflow is really an abstract class of Git Workflow. It help us to create organi
   ```
   brew install gitflow
   ```
-- On widows you will need to download and install the gitflow.
+- On widows you will need to download and install the gitflow. Gitflow is already installed in most recent git versions.
+
+## Workflow
+
+
