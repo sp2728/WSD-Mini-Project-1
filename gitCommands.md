@@ -84,17 +84,21 @@ You can delete your branch by using following command : git branch -d <branch_na
  
 ## 5. Commit
 
-A commit is an individual change to a file. It's like when you save a file, except with Git, every time you save it creates a unique ID that allows you to keep record of what changes were made when and by who. 
+A Commit is an individual change to a file. It's like when you save a file, except with Git, every time you save it creates a unique ID that allows you to keep record of what changes were made when and by who. 
 
 Commits usually contain a commit message which is a brief description of what changes were made.
 
 Below Image Screenshot describes the process of Commit Workflow, in the image it states that one file was created, and to add that file to the branch, we need to first commit with a messsge using folllowing command : git commit -m 'xyz'. To summarize, if any changes are made, like if file is created or modified etc, we need to save those changes , hence we need to commit those changes.
 
 ![](Images/gitCommands_commit.png)
+
+## 6. Merge
+
+In GitHub, Merge Commit is used to combine two branches. Git merge will combine multiple sequences of commits into one unified history.
  
+The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch.
 
-
-
+You can merge two branches using following command : git merge <branch_name> 
 
 
  
