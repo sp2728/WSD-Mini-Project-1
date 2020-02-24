@@ -55,11 +55,11 @@ We can create a hotlix branch using the following command:
 ```
 git flow hotfix start hotfix_branch
 ```
-
+![](Images/gitFlowHotflix.png)
 
 This is the only branch that should fork directly off of master. As soon as the fix is complete, it should be merged into both master and develop (or the current release branch), and master should be tagged with an updated version number.
 
-Some key takeaways to know about Gitflow are:
+**Some key takeaways to know about Gitflow are:**
 
-- The workflow is great for a release-based software workflow.
-- Gitflow offers a dedicated channel for hotfixes to production.
+- **The workflow is great for a release-based software workflow.**
+- **Gitflow offers a dedicated channel for hotfixes to production.**
