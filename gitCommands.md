@@ -100,6 +100,8 @@ The git merge command lets you take the independent lines of development created
 
 You can merge two branches using following command : git merge <branch_name> 
 
+Below Image Screenshot Shows the merging of two branches workflow :
 
+![](Images/gitCommands_merge.png)
  
 
