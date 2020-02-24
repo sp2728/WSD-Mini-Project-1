@@ -153,3 +153,5 @@ Remote Show command is used to display changes done i.e if we had performed comm
 
 It uses Following command for remote show : git remote -v
 
+![](Images/gitCommands_remoteadd1.png)
+
