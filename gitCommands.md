@@ -1,4 +1,4 @@
-# Git Commands
+# &#x1F539; Git Commands &#x1F539;
 ## 1. Repository 
 A repository is a storage space where your project lives. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host.
 
