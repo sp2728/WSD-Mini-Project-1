@@ -56,4 +56,4 @@ Let us see the steps to install Git on Windows:
 
 10. Let’s just verify if the installation went well for Git. Go to *cmd* and type **git** and press enter. you should get the following output on the screen.
 
-![](Images/gitDownload_10.png)
+![](https://github.com/varshaahuja/WSD-Mini-Project-1/blob/master/Images/gitDownload_10.png)
