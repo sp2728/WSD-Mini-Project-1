@@ -88,6 +88,11 @@ A commit is an individual change to a file. It's like when you save a file, exce
 
 Commits usually contain a commit message which is a brief description of what changes were made.
 
+Below Image Screenshot describes the process of Commit Workflow, in the image it states that one file was created, and to add that file to the branch, we need to first commit with a messsge using folllowing command : git commit -m 'xyz'. To summarize, if any changes are made, like if file is created or modified etc, we need to save those changes , hence we need to commit those changes.
+
+![](Images/gitCommands_commit.png)
+ 
+
 
 
 
