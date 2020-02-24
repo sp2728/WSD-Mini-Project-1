@@ -109,5 +109,11 @@ Below Image Screenshot Shows the merging of two branches workflow :
 The git checkout command lets you navigate between the branches created by git branch. 
 In Git terms, a "checkout" is the act of switching between different versions of a target entity. 
 The git checkout command operates upon three distinct entities: files, commits, and branches.
+
+Below Image Screenshot explains the Checkout Workflow in which we are able to switch branches by using using following command : 
+git checkout <branch_name>
+
+![](Images/gitCommands_checkout.png)
+
  
 
