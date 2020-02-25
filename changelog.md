@@ -1,23 +1,23 @@
-# Change log
+# &#x1F539; Change log &#x1F539;
 
 #v1.0.0. - Feb 23, 2020
 
 **Branching.md**
-
+---
 - Feature - Branching document created
 - Feature - Add the merge conflict definition and implementation
 - Fix - Updated the branching file with merge conflicts
 
 **collaborator.md**
-
+---
 - Feature - Created collaborator document
 
 **ForkVsClone.md**
-
+---
 - Feature - Created Fork Vs Clone file completely
 
 **gitCommands.md**
-
+---
 - Feature - Added The Definition Of Repository
 - Feature - Added the definition of Clone
 - Feature - Added the definition Of Fork
@@ -33,25 +33,27 @@
 - Merge pull request #30 from Jinalshah12345/master to sp2728
 
 **gitFlow.md**
-
+---
 - Feature - Git Flow Tutorial
 - Fix - Updated the workflow with explaining all the commands
 - Fix - Added the hotfix commands in the Gitflow file
 
 **gitLifecycle.md**
-
+---
 - Feature - Added git stages
 
 **gitSetup.md**
-
+---
 - Feature - Added Introduction part for GIT 
 - Fix - Updated all the installation steps with images
 
 **pullRequest.md**
+---
 - Fix - Added points 6 & 7
 - Feature - Created pull request document
 
 **linuxCommands.md**
+---
 - Feature - Add the file paths in linux definition
 - Fix - Updated the vi/nano branch
 - Feature - Added the explanation of the working with vi and nano editors
