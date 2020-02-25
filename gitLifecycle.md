@@ -4,10 +4,10 @@ This tutorial will talk about the stages in Git lifecycle.
 
 You can perform multiple actions in a Git project like creation, modification, deletion, refactoring, etc. Whether the project is a Git project or not these actions are always performed in a project. However in Git, the prjects are basically in one of the three stages (4th one being used when commiting changes to Remote directory):
 
-1. [*Working Directory*](https://github.com/varshaahuja/WSD-Mini-Project-1/new/master#-working-directory)
-2. [*Staging Area*](https://github.com/varshaahuja/WSD-Mini-Project-1/new/master#-staging-area)
-3. [*Git Directory*](https://github.com/varshaahuja/WSD-Mini-Project-1/new/master#-git-directory)
-4. Additional [*Remote Directory*](https://github.com/varshaahuja/WSD-Mini-Project-1/new/master#-remote-directory)
+1. [*Working Directory*](https://github.com/varshaahuja/WSD-Mini-Project-1/blob/master/gitLifecycle.md#-working-directory)
+2. [*Staging Area*](https://github.com/varshaahuja/WSD-Mini-Project-1/blob/master/gitLifecycle.md#-staging-area)
+3. [*Git Directory*](https://github.com/varshaahuja/WSD-Mini-Project-1/blob/master/gitLifecycle.md#-git-directory)
+4. Additional [*Remote Directory*](https://github.com/varshaahuja/WSD-Mini-Project-1/blob/master/gitLifecycle.md#-remote-directory)
 
 There is great flexibility in tracking the files due to these stages that files can reside in under Git. Let us look in brief about the three stages.
 

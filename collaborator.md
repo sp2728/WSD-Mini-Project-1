@@ -33,3 +33,7 @@ Below are the steps to add collaborator to your repository:
 ![](Images/collab_7.png)
 
 9. Once they accept the invitation they can work collaboratively in the project without any delays caused due to merge requests.
+
+![](Images/acceptInvitation.png)
+
+![](Images/collab_8.png)
