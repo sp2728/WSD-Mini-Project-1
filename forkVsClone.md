@@ -2,9 +2,9 @@
 
 Below topics will be covered in this document:
 
- - [Forking](https://github.com/varshaahuja/WSD-Mini-Project-1/new/master#-forking)
- - [Cloning](https://github.com/varshaahuja/WSD-Mini-Project-1/new/master#-cloning)
- - [Forking Vs Cloning](https://github.com/varshaahuja/WSD-Mini-Project-1/new/master#-forking-vs-cloning)
+ - [Forking](https://github.com/sp2728/WSD-Mini-Project-1/blob/master/forkVsClone.md#-forking)
+ - [Cloning](https://github.com/sp2728/WSD-Mini-Project-1/blob/master/forkVsClone.md#-cloning)
+ - [Forking Vs Cloning](https://github.com/sp2728/WSD-Mini-Project-1/blob/master/forkVsClone.md#-forking-vs-cloning)
  
 Before getting into the comparision of forking & cloning let us first understand the basic meanings of the same.
 
