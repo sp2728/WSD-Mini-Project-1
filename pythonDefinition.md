@@ -1,5 +1,16 @@
 # &#x1F538; Python Work Flow and Definitions &#x1F538;
 
+## &#x1F538; Don't Repeat Yourself Principle in Python
+
+DRY principle is a software development practice which aims at reducing repetition of information.
+For Example:
+```
+fruit = 'mango'
+fav_fruit = ['Orange', 'Apple', 'Cherry', 'mango', 'Strawberry']
+if fruit in fav_fruit:
+    print ('I love Mango!')
+```
+
 ## &#x1F538; Static Methods in Python
 
 Static Methods are similar to the class methods in python. The difference detween staic methods and class methods is that staic methods bound to a class rather object of a class.So, staic methods can be called without object of a class.
