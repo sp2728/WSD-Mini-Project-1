@@ -16,3 +16,14 @@ both are valid and do the same thing. But the former style is clearer.
 
 Incorrect indentation will result into IndentationError.
 
+# Class
+
+Python is an “object-oriented programming language.” This means that almost all the code is implemented using a special construct called classes. Programmers use classes to keep related things together.This is done using the keyword “class,” which is a grouping of object-oriented constructs.
+A Class is like an object constructor, or a "blueprint" for creating objects.
+
+Example-Create a class named MyClass, with a property named x:
+
+class MyClass:
+
+  x = 5
+
