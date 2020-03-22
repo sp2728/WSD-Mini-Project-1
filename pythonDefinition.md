@@ -107,3 +107,32 @@ def hello_decorator():
     print("Gfg") 
       
 hello_decorator = gfg_decorator(hello_decorator)'''
+
+# Reading Files
+
+There are actually a number of ways to read a text file in Python, not just one. 
+
+If you need to extract a string that contains all characters in the file, you can use the following method: 
+
+
+file.read() 
+
+The full code to work with this method will look something like this: 
+
+
+file = open(“testfile.text”, “r”) 
+
+print file.read() 
+
+The output of that command will display all the text inside the file, the same text we told the interpreter to add earlier. There’s no need to write it all out again, but if you must know, everything will be shown except for the “$ cat testfile.txt” line. 
+
+ 
+
+Another way to read a file is to call a certain number of characters.  
+
+For example, with the following code the interpreter will read the first five characters of stored data and return it as a string: 
+
+
+file = open(“testfile.txt”, “r”)
+ 
+print file.read(5) 
