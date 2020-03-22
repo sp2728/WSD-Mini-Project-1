@@ -82,3 +82,28 @@ A test suite is a collection of test cases, test suites, or both. It is used to 
 test runner
 
 A test runner is a component which orchestrates the execution of tests and provides the outcome to the user. The runner may use a graphical interface, a textual interface, or return a special value to indicate the results of executing the tests.
+
+# Decorator
+Decorators are very crucial and useful tool in Python since it allows programmers to modify the behavior of function or class. Decorators allow us to wrap another function in order to extend the behavior of wrapped function, without permanently modifying it.
+
+In Decorators, functions are taken as the argument into another function and then called inside the wrapper function.
+
+Syntax for Decorator:
+
+filter_none
+
+brightness_4
+
+@gfg_decorator
+
+def hello_decorator(): 
+    
+    print("Gfg") 
+  
+'''Above code is equivalent to - 
+  
+def hello_decorator(): 
+    
+    print("Gfg") 
+      
+hello_decorator = gfg_decorator(hello_decorator)'''
