@@ -45,6 +45,42 @@ Errors detected during the execution are called as exceptions. They can be not s
 
 Here is the link for [Built in exceptions](https://docs.python.org/3/library/exceptions.html#bltin-exceptions) documentation.
 
+## &#x1F538; Constructors in Python:
+
+A constructor is a special kind of method used for initializing the instance variables/members while creation of an object of a class.
+There are two types of Constructors:
+
+1.	Default Constructor: No arguments are present in this constructor.
+Example:
+```
+class Test:
+    def __init__(self):
+        self.num = 5
+    def read_num(self):
+        print(self.num)
+object = Test()
+object.read_num()
+
+Output: 5
+```
+
+2.	Parameterized Constructor: As the name suggests, parameters are accepted during object creation in these constructors, which in turn are used by the constructor to initialize the instance members of that object.
+Example:
+```
+class Test:
+    def __init__(self, num1):
+        self.num = num1
+    def read_num(self):
+        print(self.num)
+object = Test(101)
+object.read_num()
+object1 = Test(1076)
+object1.read_num()
+
+Output: 101
+	1076
+```
+
 ### &#x1F538; Handiling Exceptions in Python:
 
 It is possible to handle the exceptions using try, catch bock statements and writing the exception statements for handling the exceptions.
