@@ -124,6 +124,28 @@ button = ['image', 'input', 'flash']
 for b in button:
    print button_obj.create_button(b).get_html()
 ```
+
+## &#x1F538; Extend Class in Python:
+
+In Python, a subclass can define a function that already exists in its parent class in order to add additional functionality, the function in the subclass is said to be an extended method and the mechanism is known as extending. This is how the property of polymorphism is shown by Python. This is similar to overriding in Java and other Object-oriented languages. Calling the instance of the subclass executes the subclass’s version of the function. To call the parent class's version super() method is used. The Primary advantage provided by extending a method is that the code can be made reusable. Multiple subclasses can share the same code along with some modifications as per specifications and requirements.
+```
+Simple example showing extend functionality
+class Rectangle:
+	def __init__(self, length, width):
+        	self.length = 12
+        	self.width = 13
+
+	def area(self):
+    		return self.length * self.width
+		
+	def perimeter(self):
+   		 return 2 * self.length + 2 * self.width
+		 
+class Square(Rectangle):
+    def __init__(self, length):
+        super().__init__(length, length)
+```
+
 ## &#x1F538; CSV Files in Python:
 
 CSV files in python can be implementes using the csv modules in the python libraries. It implements the classes to read and write the tabular data in csv format. we can iterate through the rows and coloumns in the csv file and use to import or export data.
