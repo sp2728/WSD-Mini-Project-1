@@ -26,4 +26,40 @@ Example-Create a class named MyClass, with a property named x:
 class MyClass:
 
   x = 5
+  
+# Attribute/Property
+
+### Attribute
+
+Python is an object-oriented language, which provides two scopes for attributes: class attributes and instance attributes.
+
+While the instance attribute in Python has exactly the same characteristics and definition as the other object-oriented languages, the class attribute is always mistakingly considered to be the exact equivalent of the static attribute in Java or C++. To be accurate, class attributes in Python and static attributes in Java or C++ have a lot in common, however, they have behavioral differences that I will highlight in this article.
+
+Class Attribute vs. Instance Attribute
+Let's start with the basics:
+
+An instance attribute is a Python variable belonging to one, and only one, object. This variable is only accessible in the scope of this object and it is defined inside the constructor function, __init__(self,..) of the class.
+
+A class attribute is a Python variable that belongs to a class rather than a particular object. It is shared between all the objects of this class and it is defined outside the constructor function, __init__(self,...), of the class.
+
+### Property
+
+A class in Python can include properties by using the property() function. The property() method in Python provides an interface to instance attributes.
+Consider the following Python script which defines the life class as having the getter and setter methods. The getname() method returns the value of the private instance attribute __name, while the setname() method assigns the value to the __name attribute.
+
+Example:
+
+class life:
+    
+    def __init__(self, name="Guest"):
+        
+        self.__name=name
+    
+    def setname(self, name):
+        
+        self.__name=name
+    
+    def getname(self):
+        
+        return self.__name
 
