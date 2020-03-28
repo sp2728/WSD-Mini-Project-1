@@ -13,6 +13,30 @@ if fruit in fav_fruit:
 
 ## &#x1F538; Design Patterns from Gang of Four:
 
+Design patterns are a common way of solving well known problems. Gang of Four provides a set of design patters for overall architecture of the system and its related design decisions. GOF defined two main principles at the bases of the design patterns:
+1. *Program to an interface not an implementation.* :
+In this principle, the nature or type of the object is not in concern. The goal of this principle is to see if the object does	what it is suppose to. The interface is programmed instead of the implementation. For example, consider that we want to check if an animal can bark. So below is the example:
+```
+try:
+    bird.quack()
+except AttributeError:
+    self.lol()
+```    
+2. *Favor object composition over inheritance.*
+Composition is natural & elgant to python. As per this principle, instead of inheriting a class it is better to restrict what methods of the wrapped class to expose.For example:
+```
+class User:
+    _persist_methods = ['get', 'save', 'delete']
+
+    def __init__(self, persister):
+        self._persister = persister
+
+    def __getattr__(self, attribute):
+        if attribute in self._persist_methods:
+            return getattr(self._persister, attribute)
+```
+It is possible to inject the persister instance in runtime! For example, today we are using a relational database, but tomorrow it could be whatever, with the interface we need. So this principle is beneficial here.
+
 ## &#x1F538; Static Methods in Python:
 
 Static Methods are similar to the class methods in python. The difference detween staic methods and class methods is that staic methods bound to a class rather object of a class.So, staic methods can be called without object of a class.
