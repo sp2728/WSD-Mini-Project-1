@@ -22,6 +22,7 @@ This project is about understanding GIT in detail and explaining how working col
 10. [Branching](branching.md)
 11. [Linux Editing and Commands](linuxCommands.md)
 12. [Merge Conflict](branching.md)
+13. [Additional Python Definitions](pythonDefinition.md)
 
 ## &#x1F538; Sources
 
