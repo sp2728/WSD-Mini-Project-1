@@ -1,4 +1,4 @@
-# How Python Uses Indentation to control Flow 
+# &#x1F538; How Python Uses Indentation to control Flow &#x1F538;
 
 Python indentation is a way of telling a Python interpreter that the group of statements belongs to a particular block of code. A block is a combination of all these statements. Block can be regarded as the grouping of statements for a specific purpose. Python uses Whitespce for indentation. All statements with the same distance to the right belong to the same block of code. If a block has to be more deeply nested, it is simply indented further to the right. Without indentation, Python does not know which statement to execute next or which statement belongs to which block. This will lead to IndentationError.The use of indentation in Python makes the code look neat and clean.
 For example:
@@ -16,7 +16,7 @@ both are valid and do the same thing. But the former style is clearer.
 
 Incorrect indentation will result into IndentationError.
 
-# Class
+# &#x1F538; Class &#x1F538;
 
 Python is an “object-oriented programming language.” This means that almost all the code is implemented using a special construct called classes. Programmers use classes to keep related things together.This is done using the keyword “class,” which is a grouping of object-oriented constructs.
 A Class is like an object constructor, or a "blueprint" for creating objects.
@@ -27,7 +27,7 @@ class MyClass:
 
   x = 5
   
-# Attribute/Property
+# &#x1F538; Attribute/Property &#x1F538;
 
 ### Attribute
 
@@ -63,7 +63,7 @@ class life:
         
         return self.__name
 
-# Unit Test
+# &#x1F538; Unit Test &#x1F538;
 
 In Python, Unit Test supports test automation, sharing of setup and shutdown code for tests, aggregation of tests into collections, and independence of the tests from the reporting framework.  unittest supports some important concepts in an object-oriented way:
 
@@ -83,7 +83,7 @@ test runner
 
 A test runner is a component which orchestrates the execution of tests and provides the outcome to the user. The runner may use a graphical interface, a textual interface, or return a special value to indicate the results of executing the tests.
 
-# Decorator
+# &#x1F538; Decorator &#x1F538;
 Decorators are very crucial and useful tool in Python since it allows programmers to modify the behavior of function or class. Decorators allow us to wrap another function in order to extend the behavior of wrapped function, without permanently modifying it.
 
 In Decorators, functions are taken as the argument into another function and then called inside the wrapper function.
@@ -108,7 +108,7 @@ def hello_decorator():
       
 hello_decorator = gfg_decorator(hello_decorator)'''
 
-# Reading Files
+# &#x1F538; Reading Files &#x1F538;
 
 There are actually a number of ways to read a text file in Python, not just one. 
 
