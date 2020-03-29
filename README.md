@@ -22,6 +22,7 @@ This project is about understanding GIT in detail and explaining how working col
 10. [Branching](branching.md)
 11. [Linux Editing and Commands](linuxCommands.md)
 12. [Merge Conflict](branching.md)
+13. [Additional Python Definitions](pythonDefinition.md)
 
 ## &#x1F538; Sources
 
@@ -36,3 +37,6 @@ This project is about understanding GIT in detail and explaining how working col
 
 **Merge Conflicts**
 [![https://www.cloudways.com/blog/manage-branches-and-resolve-conflicts-git/](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.cloudways.com/blog/manage-branches-and-resolve-conflicts-git/)
+
+**Design Principles by GOF**
+[![https://www.toptal.com/python/python-design-patterns](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://www.toptal.com/python/python-design-patterns)
