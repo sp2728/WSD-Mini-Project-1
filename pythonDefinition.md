@@ -55,7 +55,7 @@ class User:
 ```
 It is possible to inject the persister instance in runtime! For example, today we are using a relational database, but tomorrow it could be whatever, with the interface we need. So this principle is beneficial here.
 
-## &#x1F538; Class &#x1F538;
+## &#x1F538; Class
 
 Python is an “object-oriented programming language.” This means that almost all the code is implemented using a special construct called classes. Programmers use classes to keep related things together.This is done using the keyword “class,” which is a grouping of object-oriented constructs.
 A Class is like an object constructor, or a "blueprint" for creating objects.
