@@ -62,17 +62,46 @@ A Class is like an object constructor, or a "blueprint" for creating objects.
 
 Example-Create a class named MyClass, with a property named x:
 
+```
 class MyClass:
+    """A simple example class"""
+    i = 12345
 
-  x = 5
+    def f(self):
+        return 'hello world'
+```
   
 ## &#x1F538; Static Methods in Python:
 
 Static Methods are similar to the class methods in python. The difference detween staic methods and class methods is that staic methods bound to a class rather object of a class.So, staic methods can be called without object of a class.
 
+```
+class Calculator:
+
+    # create addNumbers static method
+    @staticmethod
+    def multiplyNums(x, y):
+        return x + y
+
+print('Product:', Calculator.multiplyNums(15, 110))
+```
+
 ## &#x1F538; Objects in Python:
 
 Creating a class means creating a new type of object, allowing new instance of that type to be made. Object can have multiple names and can be bound to the same class.
+
+```
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print("Hello my name is " + self.name)
+
+p1 = Person("John", 36)
+p1.myfunc()
+```
 
 ## &#x1F538; Attribute/Property:
 
